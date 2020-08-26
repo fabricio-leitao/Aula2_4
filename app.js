@@ -1,3 +1,4 @@
+//IMPORTS
 import mongoose from 'mongoose';
 import express from 'express';
 import { studentRouter } from './routes/studentRouter.js';
